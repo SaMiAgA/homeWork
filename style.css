@@ -1,0 +1,119 @@
+
+.container{
+    background-color:rgb(133, 228, 228);
+    padding-bottom: 10px;
+    color: floralwhite;
+}
+
+.inNovmber{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+   
+}
+.availableBudget{
+    font-size: 70px;
+    padding-bottom: 30px;
+}
+.income{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: cadetblue;
+    width: 600px;
+    font-size: 30px;
+    margin-bottom: 10px ;
+}
+
+.expenses{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(245, 93, 6);
+    width: 600px;
+    font-size: 30px;
+}
+button{
+   
+    font-size: 25px;
+    display: false;
+}
+input{
+    font-size: 25px;
+}
+.addDescription{
+    padding-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+.value{
+    width: 15%;
+ }
+ .addDes{
+     width: 75%;
+ }
+ .send{
+     border-radius: 40%;
+ }
+ .bottomHeading{
+    margin-left: auto;
+    margin-right: auto;
+     width: 80%;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+ }
+ .bottomHeading h1{
+    text-align: left;
+   
+ }
+ .bottom .container{
+     color: black;
+    margin-left: auto;
+    margin-right: auto;
+     width: 90%;
+     margin-top: 40px;
+     background-color: rgb(255, 252, 251);
+    display: flex;
+    justify-content: space-between;
+ }
+ .addIncome{
+     font-size: 20px;
+     width: 550px;
+     display: flex;
+     justify-content: space-between;
+     
+ }
+ .addExpenses{
+    font-size: 20px;
+    width: 550px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.addExpenses div{
+    text-align: left;
+
+}
+
+.percent{
+    
+    font-size: 14px;
+    margin-left: 10px;
+   
+
+}
+
+.activ{
+    display: flex;
+}
+
